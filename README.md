@@ -32,6 +32,3 @@ In this programming assignment you will implement a streaming video server and c
    Otherelse, if the program report "cannot show pixbuf ..." warning information, you should install "gtk2-engines-pixbuf" libarary.
 
 That's all, and enjoy my project.
-
-Thanks!
-Shen Li
